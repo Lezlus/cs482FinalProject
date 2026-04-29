@@ -1,0 +1,13 @@
+model_name,provider,pricing_tier,aa_intelligence_index,token_volume_millions,blended_cost_usd_per_1m,projected_cost_usd
+GPT-5.4 (xhigh),OpenAI,Premium,57.2,1,5.625,5.625
+GPT-5.4 (xhigh),OpenAI,Premium,57.2,10,5.625,56.25
+GPT-5.4 (xhigh),OpenAI,Premium,57.2,50,5.625,281.25
+GPT-5.4 (xhigh),OpenAI,Premium,57.2,100,5.625,562.5
+Gemini 3.1 Pro Preview,Google,Mid,57.2,1,4.5,4.5
+Gemini 3.1 Pro Preview,Google,Mid,57.2,10,4.5,45.0
+Gemini 3.1 Pro Preview,Google,Mid,57.2,50,4.5,225.0
+Gemini 3.1 Pro Preview,Google,Mid,57.2,100,4.5,450.0
+GPT-5.3 Codex (xhigh),OpenAI,Mid,54.0,1,4.813,4.813
+GPT-5.3 Codex (xhigh),OpenAI,Mid,54.0,10,4.813,48.129999999999995
+GPT-5.3 Codex (xhigh),OpenAI,Mid,54.0,50,4.813,240.64999999999998
+GPT-5.3 Codex (xhigh),OpenAI,Mid,54.0,100,4.813,481.29999999999995
